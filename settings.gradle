@@ -1,0 +1,2 @@
+include ':app', ':khunsmasqliteassets'
+rootProject.name='KhunSQLiteAssets'
